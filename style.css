@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #fabde6;
+    background-color:white;
 }
 
 .form-container {
@@ -47,7 +47,7 @@ button {
     cursor: pointer;
 }
 
-button[type="submit"] {
+.submit-button {
     background-color: #5340e2;
     color: white;
 }
